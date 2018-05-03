@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "856179028726",
+    "firebase_url": "https://map-hyper.firebaseio.com",
+    "project_id": "map-hyper",
+    "storage_bucket": "map-hyper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856179028726:android:9428867d9b299be4",
+        "android_client_info": {
+          "package_name": "com.molen.rpl.map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856179028726-r0cgkjgjqailgs96lu6h1k46pahhhu8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBPPBXCW0nt3NKPOPOTtqeu5XymSyWfxU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
